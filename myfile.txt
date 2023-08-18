@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 32EC-C2E8
+
+ Directory of C:\Users\Joga Yogesh\OneDrive\Desktop\resume\CSE Purpose resume\Exp
+
+18-08-2023  11:34    <DIR>          .
+18-08-2023  11:34    <DIR>          ..
+08-07-2023  11:23           430,078 coverleter_in.pdf
+28-06-2023  18:12            69,553 deedy-cv.pdf
+28-06-2023  18:13           724,697 Resume Template.pages
+18-08-2023  11:34           682,971 resumeYogesh -aug.pdf
+23-06-2023  11:32           678,466 resumeYogesh -june.pdf
+08-07-2023  11:18           678,466 resumeYogesh -june1.pdf
+08-07-2023  11:17           680,723 resumeYogesh_in.pdf
+               7 File(s)      3,944,954 bytes
+               2 Dir(s)   7,980,494,848 bytes free
